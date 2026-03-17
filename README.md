@@ -1,21 +1,24 @@
 ```
- ██████╗ █████╗ ██████╗ ███████╗███████╗██████╗  █████╗ ██████╗ 
- ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗
- ██║     ███████║██████╔╝█████╗  █████╗  ██║  ██║███████║██████╔╝
- ██║     ██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██║  ██║██╔══██║██╔═══╝ 
- ╚██████╗██║  ██║██║  ██║███████╗███████╗██████╔╝██║  ██║██║     
-  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝     
-
-    ✨🤖 AI FOR EVERYDAY PINOYS 🤖✨
-    ═════════════════════════════════════
-    
-    👋 HEY, I'M RAP
-    🧠 AI Engineer & Strategist | Community Builder | Bicol-Based
-    
-    Building practical AI tools for everyday Filipinos
-    
-    🤖 AI/LLM  |  🔧 Automation  |  📚 Education  |  🌍 Community  |  🇵🇭 Bicol
+ ██████╗  ██████╗ ██████╗  █████╗ ██████╗ 
+ ██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗██╔══██╗
+ ██║   ██║██║  ███╗██████╔╝███████║██████╔╝
+ ██║   ██║██║   ██║██╔══██╗██╔══██║██╔═══╝ 
+ ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║     
+  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
 ```
+
+---
+
+✨ **AI FOR EVERYDAY PINOYS** ✨
+
+---
+
+👋 **HEY, I'M RAP**  
+🧠 **AI Engineer & Strategist | Community Builder | Bicol-Based**
+
+Building practical AI tools for everyday Filipinos
+
+🤖 AI/LLM  |  🔧 Automation  |  📚 Education  |  🌍 Community  |  🇵🇭 Bicol
 
 ---
 
