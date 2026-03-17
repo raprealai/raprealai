@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block; margin-bottom: 30px;">
+<svg viewBox="0 0 1200 480" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block; margin-bottom: 30px;">
   <defs>
     <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
@@ -12,73 +12,115 @@
   </defs>
   
   <!-- Background -->
-  <rect width="1200" height="420" fill="url(#bgGradient)"/>
+  <rect width="1200" height="480" fill="url(#bgGradient)"/>
   
   <!-- Decorative circles (subtle) -->
-  <circle cx="80" cy="60" r="100" fill="#FFD700" opacity="0.06"/>
-  <circle cx="1120" cy="350" r="130" fill="#FFD700" opacity="0.05"/>
+  <circle cx="80" cy="80" r="100" fill="#FFD700" opacity="0.06"/>
+  <circle cx="1120" cy="400" r="130" fill="#FFD700" opacity="0.05"/>
   
   <!-- Accent line left -->
-  <rect x="40" y="80" width="4" height="240" fill="#FFD700" opacity="0.3"/>
+  <rect x="40" y="100" width="4" height="280" fill="#FFD700" opacity="0.3"/>
   
-  <!-- PIXEL ART LOGO (Simplified 8-bit style) -->
-  <g transform="translate(150, 100)">
-    <!-- Robot head (pixel style) -->
-    <!-- Head outline -->
-    <rect x="20" y="0" width="60" height="60" fill="none" stroke="#1E90FF" stroke-width="2"/>
+  <!-- LARGE PIXEL ART ROBOT (16x16 block style) -->
+  <g transform="translate(80, 100)">
+    <!-- Grid size: 20px per block -->
+    
+    <!-- ANTENNA (Top) -->
+    <rect x="160" y="0" width="20" height="20" fill="#FFD700"/>
+    <rect x="180" y="-20" width="20" height="20" fill="#FFD700"/>
+    <rect x="160" y="-20" width="20" height="20" fill="#FFA500"/>
+    
+    <!-- HEAD (Blue with white border) -->
+    <!-- Head frame -->
+    <rect x="100" y="20" width="20" height="20" fill="#FFFFFF" stroke="#0F1F3C" stroke-width="1"/>
+    <rect x="120" y="20" width="20" height="20" fill="#1E90FF"/>
+    <rect x="140" y="20" width="20" height="20" fill="#1E90FF"/>
+    <rect x="160" y="20" width="20" height="20" fill="#1E90FF"/>
+    <rect x="180" y="20" width="20" height="20" fill="#FFFFFF" stroke="#0F1F3C" stroke-width="1"/>
+    
     <!-- Eyes -->
-    <rect x="30" y="15" width="10" height="10" fill="#87CEEB"/>
-    <rect x="50" y="15" width="10" height="10" fill="#87CEEB"/>
-    <!-- Smile -->
-    <rect x="32" y="38" width="3" height="3" fill="#FFD700"/>
-    <rect x="37" y="38" width="3" height="3" fill="#FFD700"/>
-    <rect x="42" y="38" width="3" height="3" fill="#FFD700"/>
-    <rect x="47" y="38" width="3" height="3" fill="#FFD700"/>
-    <!-- Antenna -->
-    <rect x="45" y="-8" width="2" height="10" fill="#FFD700"/>
-    <rect x="44" y="-10" width="4" height="2" fill="#FFD700"/>
-    <!-- Body -->
-    <rect x="25" y="65" width="50" height="40" fill="#1E90FF"/>
-    <!-- Arms -->
-    <rect x="10" y="75" width="15" height="10" fill="#1E90FF"/>
-    <rect x="80" y="75" width="15" height="10" fill="#1E90FF"/>
-    <!-- Chest panel -->
-    <rect x="35" y="75" width="30" height="20" fill="none" stroke="#FFD700" stroke-width="1"/>
-    <rect x="38" y="78" width="3" height="3" fill="#FFD700"/>
-    <rect x="45" y="78" width="3" height="3" fill="#FFD700"/>
-    <rect x="52" y="78" width="3" height="3" fill="#FFD700"/>
-    <rect x="38" y="85" width="3" height="3" fill="#FFD700"/>
-    <rect x="45" y="85" width="3" height="3" fill="#FFD700"/>
-    <rect x="52" y="85" width="3" height="3" fill="#FFD700"/>
+    <rect x="120" y="40" width="20" height="20" fill="#87CEEB"/>
+    <rect x="140" y="40" width="20" height="20" fill="#1E90FF"/>
+    <rect x="160" y="40" width="20" height="20" fill="#87CEEB"/>
+    
+    <!-- Smile/Mouth -->
+    <rect x="120" y="60" width="20" height="20" fill="#1E90FF"/>
+    <rect x="140" y="60" width="20" height="20" fill="#FFD700"/>
+    <rect x="160" y="60" width="20" height="20" fill="#1E90FF"/>
+    
+    <!-- UPPER BODY (Chest) -->
+    <rect x="100" y="80" width="20" height="20" fill="#1E90FF"/>
+    <rect x="120" y="80" width="20" height="20" fill="#1E90FF"/>
+    <rect x="140" y="80" width="20" height="20" fill="#1E90FF"/>
+    <rect x="160" y="80" width="20" height="20" fill="#1E90FF"/>
+    <rect x="180" y="80" width="20" height="20" fill="#1E90FF"/>
+    
+    <!-- Chest Panel (Gold accents) -->
+    <rect x="120" y="100" width="20" height="20" fill="#FFD700"/>
+    <rect x="140" y="100" width="20" height="20" fill="#FFD700"/>
+    <rect x="160" y="100" width="20" height="20" fill="#FFD700"/>
+    
+    <!-- LOWER BODY -->
+    <rect x="100" y="120" width="20" height="20" fill="#1E90FF"/>
+    <rect x="120" y="120" width="20" height="20" fill="#1E90FF"/>
+    <rect x="140" y="120" width="20" height="20" fill="#1E90FF"/>
+    <rect x="160" y="120" width="20" height="20" fill="#1E90FF"/>
+    <rect x="180" y="120" width="20" height="20" fill="#1E90FF"/>
+    
+    <!-- LEFT ARM -->
+    <rect x="60" y="90" width="20" height="20" fill="#1E90FF"/>
+    <rect x="40" y="90" width="20" height="20" fill="#1E90FF"/>
+    <rect x="20" y="90" width="20" height="20" fill="#FFD700"/>
+    <rect x="60" y="110" width="20" height="20" fill="#1E90FF"/>
+    <rect x="40" y="110" width="20" height="20" fill="#1E90FF"/>
+    
+    <!-- RIGHT ARM -->
+    <rect x="200" y="90" width="20" height="20" fill="#1E90FF"/>
+    <rect x="220" y="90" width="20" height="20" fill="#1E90FF"/>
+    <rect x="240" y="90" width="20" height="20" fill="#FFD700"/>
+    <rect x="200" y="110" width="20" height="20" fill="#1E90FF"/>
+    <rect x="220" y="110" width="20" height="20" fill="#1E90FF"/>
+    
+    <!-- LEGS -->
+    <!-- Left leg -->
+    <rect x="100" y="140" width="20" height="20" fill="#0F1F3C"/>
+    <rect x="100" y="160" width="20" height="20" fill="#0F1F3C"/>
+    <!-- Right leg -->
+    <rect x="160" y="140" width="20" height="20" fill="#0F1F3C"/>
+    <rect x="160" y="160" width="20" height="20" fill="#0F1F3C"/>
+    
+    <!-- FEET -->
+    <rect x="80" y="160" width="20" height="20" fill="#FFD700"/>
+    <rect x="180" y="160" width="20" height="20" fill="#FFD700"/>
   </g>
   
   <!-- Main text content -->
-  <text x="600" y="140" font-family="'Bebas Neue', Arial Black, sans-serif" font-size="68" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">
+  <text x="650" y="160" font-family="'Bebas Neue', Arial Black, sans-serif" font-size="68" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">
     HEY, I'M RAP 👋
   </text>
   
-  <text x="600" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="url(#goldGradient)" text-anchor="middle" font-weight="700">
+  <text x="650" y="225" font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="url(#goldGradient)" text-anchor="middle" font-weight="700">
     AI Engineer & Strategist
   </text>
   
-  <text x="600" y="240" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#D0D0D0" text-anchor="middle" font-weight="500">
+  <text x="650" y="270" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#D0D0D0" text-anchor="middle" font-weight="500">
     Building practical AI tools for everyday Filipinos
   </text>
   
   <!-- Accent line center -->
-  <line x1="250" y1="265" x2="950" y2="265" stroke="url(#goldGradient)" stroke-width="2" opacity="0.6"/>
+  <line x1="300" y1="300" x2="1000" y2="300" stroke="url(#goldGradient)" stroke-width="2" opacity="0.6"/>
   
   <!-- Quick tags -->
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#FFD700" text-anchor="middle">
-    <text x="220" y="315">🤖 AI/LLM</text>
-    <text x="400" y="315">🔧 Automation</text>
-    <text x="580" y="315">📚 Education</text>
-    <text x="760" y="315">🌍 Community</text>
-    <text x="960" y="315">🇵🇭 Bicol</text>
+    <text x="270" y="355">🤖 AI/LLM</text>
+    <text x="450" y="355">🔧 Automation</text>
+    <text x="650" y="355">📚 Education</text>
+    <text x="850" y="355">🌍 Community</text>
+    <text x="1020" y="355">🇵🇭 Bicol</text>
   </g>
   
   <!-- Bottom accent -->
-  <line x1="300" y1="355" x2="900" y2="355" stroke="url(#goldGradient)" stroke-width="1" opacity="0.4"/>
+  <line x1="350" y1="405" x2="950" y2="405" stroke="url(#goldGradient)" stroke-width="1" opacity="0.4"/>
 </svg>
 
 ---
