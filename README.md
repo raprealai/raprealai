@@ -16,7 +16,7 @@
 ---
 
 # 👋 HEY, I'M RAP
-# 🧠 AI Engineer & Strategist | Community Builder | Bicol-Based
+# 🧠 Sovereign AI-OS Architect | Community Builder | Bicol-Based
 
 **Building practical AI tools for everyday Filipinos**
 
@@ -32,28 +32,28 @@ I'm focused on **practical AI for Filipinos**—building tools and education tha
 <tr>
 <td width="50%">
   
-**Practical AI for Filipinos**  
-Tools and education for OFWs, educators, small businesses, government workers
+**Community Intelligence & Scale**  
+Designing decentralized systems for high-velocity engagement and distribution.
 
 </td>
 <td width="50%">
   
-**Community-First Infrastructure**  
-Discord bots, automation, content pipelines designed for sustainable growth
+**Strategic Tooling & Digital Assets**  
+Engineering high-performance tools and frameworks for professional optimization.
 
 </td>
 </tr>
 <tr>
 <td>
   
-**Operational Clarity**  
-Code that's debuggable, maintainable, and honest about tradeoffs
+**Technical Capacity Building**  
+Scaling local workforce talent through advanced system education and architectural design.
 
 </td>
 <td>
   
-**Human-Centered AI**  
-Prompt engineering, output validation, cost control, and safety as core concerns
+**Operational Orchestration & Private R&D**  
+Developing private, local-first intelligence infrastructure (Dept 15) and Project: O.N.E.
 
 </td>
 </tr>
@@ -82,12 +82,12 @@ Prompt engineering, output validation, cost control, and safety as core concerns
 - Git, GitHub Actions
 
 **Domains**
-- LLM orchestration & prompt engineering
-- Automation & bot infrastructure
-- Audio transcription (code-switching: Bicolano/Tagalog/English)
-- Content generation pipelines
-- Community platform tooling
-- Web scraping & data processing
+- Sovereign AI-OS Architecture & Cognitive Design
+- Autonomous Labor Orchestration & Private R&D
+- Strategic Content Distribution & Community Scale
+- End-to-End System Automation & Self-Healing
+- Technical Capacity Building & Education Design
+- Digital Sovereignty & Private Data Infrastructure
 
 ---
 
@@ -148,13 +148,13 @@ Google Calendar + Gmail integration, multi-panel tracker
 
 ## 🚀 Currently Building
 
-**AI for Everyday Pinoys Community**
-- Discord server (500+ members targeted)
-- Taglish content at scale
-- Digital product pipeline (prompt bundles, templates, guides)
-- Webinar series reaching Bicolano professionals, students, government workers
+**Project: O.N.E. (Orchestrated Neural Ecosystem)**
+- Engineering the future of decentralized, on-demand autonomous labor.
+- Building a private, 24/7 internal cognitive engine for operational scale.
 
-**Philosophy:** Systems should be clear under pressure. No hidden magic.
+**AI for Everyday Pinoys Community**
+- Scaling Taglish content through autonomous strategic distribution.
+- Digital product pipeline (prompt bundles, templates, architectural guides).
 
 ---
 
