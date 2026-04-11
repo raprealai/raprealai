@@ -142,6 +142,20 @@ Google Calendar + Gmail integration, multi-panel tracker
 
 </td>
 </tr>
+<tr>
+<td>
+
+#### ⚙️ Core Worker Pool
+Async python worker pool for distributed task execution
+**Focus:** Infrastructure & telemetry ops
+
+</td>
+<td>
+
+&nbsp;
+
+</td>
+</tr>
 </table>
 
 ---
