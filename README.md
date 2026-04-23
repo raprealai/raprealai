@@ -16,78 +16,17 @@
 ---
 
 # 👋 HEY, I'M RAP
-# 🧠 Sovereign AI-OS Architect | Community Builder | Bicol-Based
+### **Lead Architect | Sovereign AI-OS & Community Ecosystems**
 
-**Building practical AI tools for everyday Filipinos**
-
-🤖 AI/LLM  |  🔧 Automation  |  📚 Education  |  🌍 Community  |  🇵🇭 Bicol
+> **"Make powerful tools simple, and you arm the people."**
 
 ---
 
-## 🧠 What I Care About
+## 🚀 Currently Building
 
-I'm focused on **practical AI for Filipinos**—building tools and education that actually work in real contexts.
-
-<table>
-<tr>
-<td width="50%">
-  
-**Community Intelligence & Scale**  
-Designing decentralized systems for high-velocity engagement and distribution.
-
-</td>
-<td width="50%">
-  
-**Strategic Tooling & Digital Assets**  
-Engineering high-performance tools and frameworks for professional optimization.
-
-</td>
-</tr>
-<tr>
-<td>
-  
-**Technical Capacity Building**  
-Scaling local workforce talent through advanced system education and architectural design.
-
-</td>
-<td>
-  
-**Operational Orchestration & Private R&D**  
-Developing private, local-first intelligence infrastructure (Dept 15) and Project: O.N.E.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Stack
-
-**Languages**
-- Python
-- JavaScript / TypeScript
-- React
-- HTML / CSS
-- Bash / Shell
-- Markdown
-- JSON / YAML
-
-**Frameworks & Tools**
-- Claude API, Anthropic SDK
-- Discord.py, Node.js
-- FastAPI
-- pydub (audio processing)
-- Google Calendar & Gmail APIs
-- Pandas (data manipulation)
-- Git, GitHub Actions
-
-**Domains**
-- Sovereign AI-OS Architecture & Cognitive Design
-- Autonomous Labor Orchestration & Private R&D
-- Strategic Content Distribution & Community Scale
-- End-to-End System Automation & Self-Healing
-- Technical Capacity Building & Education Design
-- Digital Sovereignty & Private Data Infrastructure
+- **[SJS Executive Command Center](https://github.com/raprealai/sjs-executive-command-center)**: A premium, mission-critical dashboard for the SJS Grand Homecoming 2026, built with technical typography and executive layouts.
+- **[Sovereign AI-OS Distribution](https://github.com/raprealai/Sovereign-AI-OS-Distribution)**: A persistent, local-first intelligence infrastructure bridging local cognition (Ollama/SD) with global distribution channels.
+- **Project: O.N.E. (Orchestrated Neural Ecosystem)**: Engineering decentralized, on-demand autonomous labor and private cognitive engines.
 
 ---
 
@@ -95,64 +34,34 @@ Developing private, local-first intelligence infrastructure (Dept 15) and Projec
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-#### 🤖 Discord Automation
-Full server setup, role management, starter content
-**Focus:** Infrastructure & scale
-
-</td>
-<td>
-
-#### 📝 Bicolano Transcription  
-pydub + Claude API for local audio (code-switching)
-**Focus:** Practical AI for region
+#### 🤖 Sovereign AI-OS
+Foundational OS for local generative intelligence and autonomous distribution.
+**Focus:** Infrastructure & Digital Sovereignty
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 
-#### ⚡ AI News Byte Generator
-React tool for daily AI content (Taglish)
-**Focus:** Content ops at speed
-
-</td>
-<td>
-
-#### 📦 Claude Prompt Bundles
-5+ industry-specific collections (free + paid)
-**Focus:** Practical tooling
+#### 🏛️ SJS Command Center
+Production-grade executive dashboard for mission-critical project tracking.
+**Focus:** Premium UI & Strategic Visualization
 
 </td>
 </tr>
 <tr>
 <td>
 
-#### 🎓 Webinar Series: AI & Bicol
-3-part program (Foundation → Bridge → Advanced)
-**Focus:** Education & scale
+#### 🌉 Meta Sovereign Bridge
+Permanent OAuth integration for autonomous, high-authority content forging.
+**Focus:** Automation & Scale
 
 </td>
 <td>
 
-#### 📊 Life OS Dashboard
-Google Calendar + Gmail integration, multi-panel tracker
-**Focus:** Personal ops
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### ⚙️ Core Worker Pool
-Async python worker pool for distributed task execution
-**Focus:** Infrastructure & telemetry ops
-
-</td>
-<td>
-
-&nbsp;
+#### 🇵🇭 AI for Everyday Pinoys
+Community-driven initiative distilling AI capabilities into practical Taglish workflows.
+**Focus:** Education & Local Empowerment
 
 </td>
 </tr>
@@ -160,37 +69,23 @@ Async python worker pool for distributed task execution
 
 ---
 
-## 🚀 Currently Building
+## 🛠️ Tech Stack
 
-**Project: O.N.E. (Orchestrated Neural Ecosystem)**
-- Engineering the future of decentralized, on-demand autonomous labor.
-- Building a private, 24/7 internal cognitive engine for operational scale.
-
-**AI for Everyday Pinoys Community**
-- Scaling Taglish content through autonomous strategic distribution.
-- Digital product pipeline (prompt bundles, templates, architectural guides).
-
----
-
-## 📐 How I Approach Work
-
-- **Explicit over implicit** — Code and systems should be readable without deep context
-- **Design for debugging** — Before scaling, make sure humans can understand what's happening
-- **Treat automation as first-class** — Repetitive tasks deserve structured solutions, not workarounds
-- **No unnecessary complexity** — Taglish works better than English for my audience; use what fits
+| Domain | Technologies |
+| :--- | :--- |
+| **Cognition** | Ollama, Stable Diffusion, Claude API, Gemma 2 |
+| **Workflow** | Python, n8n, macOS launchd, Meta Graph API |
+| **Interface** | Vanilla JS, CSS3, Premium UI, Space Grotesk |
+| **Sovereignty** | Local-first storage, Encrypted .env protocols, Supabase |
 
 ---
 
-## 📫 Find Me
+## 📫 Connect with the Architect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AIforEverydayPinoys)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aiforeverydaypinoys)
 [![Newsletter](https://img.shields.io/badge/Newsletter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://aiforeverydaypinoys.substack.com)
 [![Products](https://img.shields.io/badge/Payhip-FFD700?style=for-the-badge&logo=shopping&logoColor=000)](https://payhip.com/raprealai)
-
----
-
-> **"Making AI practical, not mystical—one Taglish prompt at a time."** 🇵🇭
 
 ---
 
